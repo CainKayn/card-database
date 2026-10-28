@@ -53,7 +53,7 @@ Elder Dragon,UNL,1,UNIT,BODY,false,false,elder-dragon-unl.avif
 Baron Nashor,UNL,1,UNIT,CHAOS,false,false,baron-nashor-unl.avif
 Diana No Longer Human,UNL,1,UNIT,CHAOS,false,false,diana-no-longer-human-unl.avif
 Vex Apathetic,UNL,1,UNIT,CHAOS,false,false,vex-apathetic-unl.avif
-Atakhan,UNL,1,UNIT,ORDER,false,false,atakhan-unl.avif
+Atakhan,UNL,5,UNIT,ORDER,false,false,atakhan-unl.avif
 Ivern Friend To All,UNL,1,UNIT,ORDER,false,false,ivern-friend-to-all-unl.avif
 Poppy Defender of the Meek,UNL,1,UNIT,ORDER,false,false,poppy-defender-of-the-meek-unl.avif
 The Ruination,UNL,1,SPELL,ORDER,false,false,the-ruination-unl.avif
@@ -114,3 +114,90 @@ Commander Ledros,OGN,2,UNIT,ORDER,false,false,commander-ledros-ogn.avif
 Grand Strategem,OGN,3,UNIT,ORDER,false,false,grand-stategem-ogn.avif
 King's Edict,OGN,1,UNIT,ORDER,false,false,kings-edict-ogn.avif
 Harnessed Dragon,OGN,1,UNIT,ORDER,false,false,harnessed-dragon-ogn.avif
+Altar of Memories,SFD,3,GEAR,ORDER,false,false,altar-of-memories-sfd.avif
+Sacred Shears,SFD,1,GEAR,ORDER,false,false,sacred-shears-sfd.avif
+Xin Zhao Vigilant,SFD,2,UNIT,ORDER,false,false,xin-zhao-vigilant-sfd.avif
+Renata Glasc,SFD,3,UNIT,ORDER,false,false,renata-glasc-sfd.avif
+Soraka Wanderer,SFD,3,UNIT,ORDER,false,false,soraka-wanderer-sfd.avif
+Rek'Sai Swarm Queen,SFD,3,UNIT,ORDER,false,false,reksai-swarm-queen-sfd.avif
+Undertitan,SFD,3,UNIT,ORDER,false,false,undertitan-sfd.avif
+Trove Golem,SFD,4,UNIT,ORDER,false,false,trove-golem-sfd.avif
+Sacrifice,UNL,4,SPELL,ORDER,false,false,sacrifice-unl.avif
+Tactical Retreat,UNL,5,SPELL,ORDER,false,false,tactical-retreat-unl.avif
+Shard of Undoing,UNL,4,GEAR,ORDER,false,false,shard-of-undoing-unl.avif
+Galio Indefatigable,UNL,3,UNIT,ORDER,false,false,galio-indefatigable-unl.avif
+LeBlanc Fragmented,UNL,4,UNIT,ORDER,false,false,leblanc-fragmented-unl.avif
+Ashe Focused,UNL,4,UNIT,ORDER,false,false,ashe-focused-unl.avif
+Vi Peacekeeper,UNL,3,UNIT,ORDER,false,false,vi-peacekeeper-unl.avif
+Decree of Unity,VEN,7,SPELL,ORDER,false,false,decree-of-unity-ven.avif
+Fallen Feline,VEN,6,UNIT,ORDER,false,false,fallen-feline-ven.avif
+Glowstone,VEN,7,GEAR,ORDER,false,false,glowstone-ven.avif
+Kayle Justified,VEN,6,UNIT,ORDER,false,false,kayle-justified-ven.avif
+Kennen Keeper of Balance,VEN,6,UNIT,ORDER,false,false,kennen-keeper-of-balance-ven.avif
+Aurok General,VEN,5,UNIT,ORDER,false,false,aurok-general-ven.avif
+Teemo Scout,OGN,2,UNIT,CHAOS,false,false,teemo-scout-ogn.avif
+Tideturner,OGN,4,UNIT,CHAOS,false,false,tideturner-ogn.avif
+Kog'Maw Caustic,OGN,1,UNIT,CHAOS,false,false,kogmaw-caustic-ogn.avif
+Miss Fortune Buccaneer,OGN,2,UNIT,CHAOS,false,false,miss-fortune-buccaneer-ogn.avif
+Noctune Horrifying,OGN,1,UNIT,CHAOS,false,false,noctune-horrifying-ogn.avif
+Maddened Maraunder,OGN,1,UNIT,CHAOS,false,false,maddened-maraunder-ogn.avif
+Kayn Unleashed,OGN,1,UNIT,CHAOS,false,false,kayn-unleashed-ogn.avif
+The Harrowing,OGN,2,UNIT,CHAOS,false,false,the-harrowing-ogn.avif
+Mindsplitter,OGN,2,UNIT,CHAOS,false,false,mindsplitter-ogn.avif
+Soulgorger,OGN,1,UNIT,CHAOS,false,false,soulgorger-ogn.avif
+Rhasa the Sunderer,OGN,1,UNIT,CHAOS,false,false,rhasa-the-sunderer-ogn.avif
+Spirit Wheel,SFD,4,GEAR,CHAOS,false,false,spirit-wheel-sfd.avif
+Swithcheroo,SFD,3,SPELL,CHAOS,false,false,swithcheroo-sfd.avif
+Edge of Night,SFD,3,GEAR,CHAOS,false,false,edge-of-night-sfd.avif
+Fizz Trickster,SFD,3,UNIT,CHAOS,false,false,fizz-trickster-sfd.avif
+Irelia Graceful,SFD,2,UNIT,CHAOS,false,false,irelia-graceful-sfd.avif
+Sivir Mercenary,SFD,4,UNIT,CHAOS,false,false,sivir-mercenary-sfd.avif
+Jae Medarda,SFD,4,UNIT,CHAOS,false,false,jae-medarda-sfd.avif
+Vex Cheerless,SFD,2,UNIT,CHAOS,false,false,vex-cheerless-sfd.avif
+Bone Skewer,UNL,4,SPELL,CHAOS,false,false,bone-skewer-unl.avif
+Evelynn  Entrancing,UNL,3,UNIT,CHAOS,false,false,evelynn-entrancing-unl.avif
+Heedless Resurrection,UNL,4,SPELL,CHAOS,false,false,heedless-resurrection-unl.avif
+Pyke Returned,UNL,3,UNIT,CHAOS,false,false,pyke-returned-unl.avif
+Kha'Zix Mutating Horror,UNL,3,UNIT,CHAOS,false,false,khazix-mutating-horror-unl.avif
+Conscription,UNL,3,SPELL,CHAOS,false,false,conscription-unl.avif
+Syndra Transcendent,UNL,1,UNIT,CHAOS,false,false,syndra-transcendent-unl.avif
+Decree of Discord,VEN,7,SPELL,CHAOS,false,false,decree-of-discord-ven.avif
+Forgotten Relic,VEN,7,GEAR,CHAOS,false,false,forgotten-relic-ven.avif
+Mel Defiant Soul,VEN,8,UNIT,CHAOS,false,false,mel-defiant-soul-ven.avif
+Zed Without A Sound,VEN,8,UNIT,CHAOS,false,false,zed-without-a-sound-ven.avif
+Illaoi Prophet of the Great Kraken,VEN,5,UNIT,CHAOS,false,false,illaoi-prophet-of-the-great-kraken-ven.avif
+Minah Swiftfoot,VEN,4,UNIT,CHAOS,false,false,minah-swiftfoot-ven.avif
+Maduli the Gatekeeper,VEN,3,UNIT,CHAOS,false,false,maduli-the-gatekeeper-ven.avif
+unit,OGN,1,UNIT,ORDER,false,false,unit-ogn.avif
+Sabotage,OGN,3,SPELL,ORDER,false,false,sabotage-ogn.avif
+Kraken Hunter,OGN,1,UNIT,ORDER,false,false,kraken-hunter-ogn.avif
+Mistfall,OGN,2,GEAR,ORDER,false,false,mistfall-ogn.avif
+Primal Strength,OGN,1,SPELL,ORDER,false,false,primal-strength-ogn.avif
+Qiyana Victorious,OGN,1,UNIT,ORDER,false,false,qiyana-victorious-ogn.avif
+Carnivorous Snapvine,OGN,2,UNIT,ORDER,false,false,carnivorous-snapvine-ogn.avif
+Lee Sin Centered,OGN,2,UNIT,ORDER,false,false,lee-sin-centered-ogn.avif
+Udyr Wildman,OGN,2,UNIT,ORDER,false,false,udyr-wildman-ogn.avif
+Anivia Primal,OGN,1,UNIT,ORDER,false,false,anivia-primal-ogn.avif
+Volibear Imposing,OGN,3,UNIT,ORDER,false,false,volibear-imposing-ogn.avif
+Here to Help,SFD,5,SPELL,BODY,false,false,here-to-help-sfd.avif
+Fiora Peerless,SFD,4,UNIT,BODY,false,false,fiora-peerless-sfd.avif
+Lucian Mericless,SFD,3,UNIT,BODY,false,false,lucian-mericless-sfd.avif
+Marching Orders,SFD,3,SPELL,BODY,false,false,marching-orders-sfd.avif
+Akshan Mischievous,SFD,5,UNIT,BODY,false,false,akshan-mischievous-sfd.avif
+Kato the Arm,SFD,2,UNIT,BODY,false,false,kato-the-arm-sfd.avif
+Trinity Force,SFD,2,UNIT,BODY,false,false,trinity-force-sfd.avif
+Yone Blademaster,SFD,3,UNIT,BODY,false,false,yone-blademaster-sfd.avif
+Blood Rose,UNL,5,UNIT,BODY,false,false,blood-rose-unl.avif
+Determined Sentry,UNL,2,UNIT,BODY,false,false,determined-sentry-unl.avif
+Irresistible Faefolk,UNL,4,UNIT,BODY,false,false,irresistible-faefolk-unl.avif
+Nidalee Cat Form,UNL,6,UNIT,BODY,false,false,nidalee-cat-form-unl.avif
+Nilah Joyful Ascetic,UNL,3,UNIT,BODY,false,false,nilah-joyful-ascetic-unl.avif
+Master Yi Tempered,UNL,4,UNIT,BODY,false,false,master-yi-tempered-unl.avif
+Poppy Paragon,UNL,3,UNIT,BODY,false,false,poppy-paragon-unl.avif
+Clash of Giants,UNL,2,UNIT,BODY,false,false,clash-of-giants-unl.avif
+Decree of Strength,VEN,5,SPELL,BODY,false,false,decree-of-strength-ven.avif
+Ambessa the Wolf,VEN,7,UNIT,BODY,false,false,ambessa-the-wolf-ven.avif
+Hextech Disc,VEN,8,GEAR,BODY,false,false,hextech-disc-ven.avif
+Jayce Hammer in Hand,VEN,8,UNIT,BODY,false,false,jayce-hammer-in-hand-ven.avif
+Gangplank Naval,VEN,5,UNIT,BODY,false,false,gangplank-naval-ven.avif
+Wildclaw,VEN,3,SPELL,BODY,false,false,wildclaw-ven.avif
