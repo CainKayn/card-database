@@ -1,3 +1,116 @@
 name,set,quantity,type,color,altArt,overnumbered,image
-Scuttle Crab,UNL,1,UNIT,CALM,FALSE,FALSE,scuttle-crab-unl.avif
 Kai'Sa Survivor,OGN,2,UNIT,FURY,false,false,kaisa-survivor-ogn.avif
+Endless Riches,VEN,2,GEAR,FURY,false,false,endless-riches-ven.avif
+Kai'Sa Survivor AA,OGN,1,UNIT,FURY,true,false,kaisa-survivor-aa-ogn.avif
+Immortal Phoenix,OGN,1,UNIT,FURY,false,false,immortal-phoenix-ogn.avif
+Kadregrin the Infernal,OGN,3,UNIT,FURY,false,false,kadregrin-the-infernal-ogn.avif
+Volibear Furious,OGN,1,UNIT,FURY,false,false,volibear-furious-ogn.avif
+Viktor Leader,OGN,1,UNIT,ORDER,false,false,viktor-leader-ogn.avif
+Darius Executioner,OGN,1,UNIT,ORDER,false,false,darius-executioner-ogn.avif
+Miss Fortune Captain,OGN,1,UNIT,BODY,false,false,miss-fortune-captain-ogn.avif
+Lee Sin Ascetic,OGN,1,UNIT,CALM,false,false,lee-sin-ascetic-ogn.avif
+Dazzling Aurora,OGN,2,GEAR,BODY,false,false,dazzling-aurora-ogn.avif
+Seal of Strength,OGN,4,GEAR,BODY,false,false,seal-of-strength-ogn.avif
+Seal of Insight,OGN,1,GEAR,CALM,false,false,seal-of-insight-ogn.avif
+Seal of Discord,OGN,1,GEAR,CHAOS,false,false,seal-of-discord-ogn.avif
+Invert Timelines,OGN,1,SPELL,CHAOS,false,false,invert-timelines-ogn.avif
+Possession,OGN,1,SPELL,CHAOS,false,false,possession-ogn.avif
+Stormbringer,OGN,3,SPELL,FURY&BODY,false,false,stormbringer-ogn.avif
+Fox-Fire,OGN,1,SPELL,CALM&MIND,false,false,fox-fire-ogn.avif
+Unchecked Power,OGN,1,SPELL,CALM,false,false,unchecked-power-ogn.avif
+Irelia Fervent,SFD,2,UNIT,CALM,false,false,irelia-fervent-sfd.avif
+Ornn Blacksmith,SFD,1,UNIT,CALM,false,false,ornn-blacksmith-sfd.avif
+Tianna Crownguard,SFD,1,UNIT,CALM,false,false,tianna-crownguard-sfd.avif
+Rumble Scrapper,SFD,2,UNIT,MIND,false,false,rumble-scrapper-sfd.avif
+Jax Unrelenting,SFD,1,UNIT,BODY,false,false,jax-unrelenting-sfd.avif
+Draven Audacious,SFD,1,UNIT,CHAOS,false,false,draven-audacious-sfd.avif
+Skyfall of Areion,SFD,1,GEAR,FURY,false,false,skyfall-of-areion-sfd.avif
+Premonition,SFD,1,SPELL,MIND,false,false,premonition-sfd.avif
+Downwell,SFD,1,SPELL,CHAOS,false,false,downwell-sfd.avif
+Danger Zone,SFD,1,SPELL,FURY&MIND,false,false,danger-zone-sfd.avif
+Relentless Pursuit,SFD,1,SPELL,FURY&BODY,false,false,relentless-pursuit-sfd.avif
+Spinning Axe,SFD,1,SPELL,CHAOS&FURY,false,false,spinning-axe-sfd.avif
+Void Rush,SFD,1,SPELL,FURY&ORDER,false,false,void-rush-sfd.avif
+Counter Strike,SFD,1,SPELL,CALM&BODY,false,false,counter-strike-sfd.avif
+Defiant Dance,SFD,1,SPELL,CALM&CHAOS,false,false,defiant-dance-sfd.avif
+Arcane Shift,SFD,2,SPELL,MIND&CHAOS,false,false,arcane-shift-sfd.avif
+Hostile Takeover,SFD,1,SPELL,MIND&ORDER,false,false,hostile-takeover-sfd.avif
+On the Hunt,SFD,1,SPELL,BODY&CHAOS,false,false,on-the-hunt-sfd.avif
+Blade of the Ruined King,SFD,1,GEAR,CHAOS,false,false,blade-of-the-ruined-king-sfd.avif
+Riposte,SFD,1,SPELL,BODY&ORDER,false,false,riposte-sfd.avif
+Inviolus Vox,UNL,1,UNIT,FURY,false,false,inviolus-vox-unl.avif
+Pyke Dockside Butcher,UNL,1,UNIT,FURY,false,false,pyke-dockside-butcher-unl.avif
+Alpha Wildclaw,UNL,1,UNIT,CALM,false,false,alpha-wildclaw-unl.avif
+Lillia Protector of Dreams,UNL,1,UNIT,CALM,false,false,lillia-protector-of-dreams-unl.avif
+Master Yi Unstoppable,UNL,1,UNIT,CALM,false,false,master-yi-unstoppable-unl.avif
+Blue Sentinel,UNL,1,UNIT,MIND,false,false,blue-sentinel-unl.avif
+Jhin Meticulous Killer,UNL,1,UNIT,MIND,false,false,jhin-meticulous-killer-unl.avif
+Gutter Palace,UNL,1,GEAR,MIND,false,false,gutter-palace-unl.avif
+Arachnoid Horror,UNL,1,UNIT,BODY,false,false,arachnoid-horror-unl.avif
+Kha'Zix Evolving Hunter,UNL,1,UNIT,BODY,false,false,khazix-evolving-hunter-unl.avif
+Rengar Trophy Hunter,UNL,1,UNIT,BODY,false,false,rengar-trophy-hunter-unl.avif
+Elder Dragon,UNL,1,UNIT,BODY,false,false,elder-dragon-unl.avif
+Baron Nashor,UNL,1,UNIT,CHAOS,false,false,baron-nashor-unl.avif
+Diana No Longer Human,UNL,1,UNIT,CHAOS,false,false,diana-no-longer-human-unl.avif
+Vex Apathetic,UNL,1,UNIT,CHAOS,false,false,vex-apathetic-unl.avif
+Atakhan,UNL,1,UNIT,ORDER,false,false,atakhan-unl.avif
+Ivern Friend To All,UNL,1,UNIT,ORDER,false,false,ivern-friend-to-all-unl.avif
+Poppy Defender of the Meek,UNL,1,UNIT,ORDER,false,false,poppy-defender-of-the-meek-unl.avif
+The Ruination,UNL,1,SPELL,ORDER,false,false,the-ruination-unl.avif
+Shadow,UNL,1,UNIT,CHAOS&CALM,false,false,shadow-unl.avif
+Daisy!,UNL,1,UNIT,CALM&ORDER,false,false,daisy-unl.avif
+Curtain Call,UNL,1,SPELL,FURY&MIND,false,false,curtain-call-unl.avif
+Thrill of the Hunt,UNL,1,SPELL,BODY&FURY,false,false,thrill-of-the-hunt-unl.avif
+Death from Below,UNL,1,SPELL,FURY&CHAOS,false,false,death-from-below-unl.avif
+Hextech Gauntlets,UNL,1,GEAR,FURY&ORDER,false,false,hextech-gauntlets-unl.avif
+Lilting Lullaby,UNL,1,SPELL,CALM&MIND,false,false,lilting-lullaby-unl.avif
+Void Assault,UNL,1,SPELL,BODY&CHAOS,false,false,void-assault-unl.avif
+Keeper's Verdict,UNL,2,SPELL,BODY&ORDER,false,false,keepers-verdict-unl.avif
+Akali Deadly Weapon,VEN,3,UNIT,FURY,false,false,akali-deadly-weapon-ven.avif
+Zed From the Shadows,VEN,2,UNIT,FURY,false,false,zed-from-the-shadows-ven.avif
+Astral Heron,VEN,2,UNIT,CALM,false,false,astral-heron-ven.avif
+Helm of Suppression,VEN,1,GEAR,CALM,false,false,helm-of-suppression-ven.avif
+Bottled Constellation,VEN,2,GEAR,MIND,false,false,bottled-constellation-ven.avif
+Jayce Brilliant Inventor,VEN,1,UNIT,MIND,false,false,jayce-brilliant-inventor-ven.avif
+Cataclysmic Duel,VEN,3,SPELL,BODY,false,false,cataclysmic-duel-ven.avif
+Corrupted Dragon,VEN,2,UNIT,BODY,false,false,corrupted-dragon-ven.avif
+Kennen Storm of Shuriken,VEN,3,UNIT,CHAOS,false,false,kennen-storm-of-shuriken-ven.avif
+Kharox,VEN,2,UNIT,CHAOS,false,false,kharox-ven.avif
+Ocean Drake,VEN,2,UNIT,CHAOS,false,false,ocean-drake-ven.avif
+Ambessa Respected and Feared,VEN,2,UNIT,ORDER,false,false,ambessa-respected-and-feared-ven.avif
+Shady Spectacles,VEN,3,UNIT,ORDER,false,false,shady-spectacles-ven.avif
+Shen Leader of the Kinkou Order,VEN,2,UNIT,ORDER,false,false,shen-leader-of-the-kinkou-order-ven.avif
+Shuriken Flip,VEN,2,SPELL,FURY&CALM,false,false,shuriken-flip-ven.avif
+Dominus,VEN,2,SPELL,FURY&BODY,false,false,dominus-ven.avif
+Death Mark,VEN,1,SPELL,FURY&CHAOS,false,false,death-mark-ven.avif
+Siphoning Strike,VEN,2,SPELL,CALM&MIND,false,false,siphoning-strike-ven.avif
+Shadow Dash,VEN,1,SPELL,CALM&ORDER,false,false,shadow-dash-ven.avif
+Lightning Rush,VEN,1,SPELL,CHAOS&ORDER,false,false,lightning-rush-ven.avif
+Acceleration Gate,VEN,1,SPELL,MIND&BODY,false,false,acceleration-gate-ven.avif
+Rebuttal,VEN,3,SPELL,MIND&CHAOS,false,false,rebuttal-ven.avif
+Public Execution,VEN,1,SPELL,BODY&ORDER,false,false,public-execution-ven.avif
+Fury Rune AA,OGN,1,RUNE,FURY,true,false,fury-rune-aa-ogn.avif
+Fury Rune AA,VEN,1,RUNE,FURY,true,false,fury-rune-aa-ven.avif
+Calm Rune AA,UNL,2,RUNE,CALM,true,false,calm-rune-aa-unl.avif
+Calm Rune AA,VEN,1,RUNE,CALM,true,false,calm-rune-aa-ven.avif
+Mind Rune AA,SFD,1,RUNE,MIND,true,false,mind-rune-aa-sfd.avif
+Body Rune AA,OGN,1,RUNE,BODY,true,false,body-rune-aa-ogn.avif
+Body Rune AA,SFD,1,RUNE,BODY,true,false,body-rune-aa-sfd.avif
+Body Rune AA,VEN,1,RUNE,BODY,true,false,body-rune-aa-ven.avif
+Chaos Rune AA,SFD,1,RUNE,CHAOS,true,false,chaos-rune-aa-sfd.avif
+Chaos Rune AA,UNL,2,RUNE,CHAOS,true,false,chaos-rune-aa-unl.avif
+Chaos Rune AA,VEN,1,RUNE,CHAOS,true,false,chaos-rune-aa-ven.avif
+Chaos Rune AA,RAD,1,RUNE,CHAOS,true,false,chaos-rune-aa-rad.avif
+Order Rune AA,OGN,1,RUNE,ORDER,true,false,order-rune-aa-ogn.avif
+Order Rune AA,UNL,1,RUNE,ORDER,true,false,order-rune-aa-unl.avif
+Order Rune AA,VEN,2,RUNE,ORDER,true,false,order-rune-aa-ven.avif
+Karthus Eternal,OGN,1,UNIT,ORDER,false,false,karthus-eternal-ogn.avif
+Shen Kinkou,OGN,1,UNIT,ORDER,false,false,shen-kinkou-ogn.avif
+Albus Ferros,OGN,3,UNIT,ORDER,false,false,albus-ferros-ogn.avif
+Fiora Victorious,OGN,2,UNIT,ORDER,false,false,fiora-victorious-ogn.avif
+Leona Determined,OGN,2,UNIT,ORDER,false,false,leona-determined-ogn.avif
+Machine Evangel,OGN,2,UNIT,ORDER,false,false,machine-evangel-ogn.avif
+Commander Ledros,OGN,2,UNIT,ORDER,false,false,commander-ledros-ogn.avif
+Grand Strategem,OGN,3,UNIT,ORDER,false,false,grand-stategem-ogn.avif
+King's Edict,OGN,1,UNIT,ORDER,false,false,kings-edict-ogn.avif
+Harnessed Dragon,OGN,1,UNIT,ORDER,false,false,harnessed-dragon-ogn.avif
