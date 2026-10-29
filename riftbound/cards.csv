@@ -188,7 +188,7 @@ Kato the Arm,SFD,2,UNIT,BODY,false,false,kato-the-arm-sfd.avif
 Trinity Force,SFD,2,UNIT,BODY,false,false,trinity-force-sfd.avif
 Yone Blademaster,SFD,3,UNIT,BODY,false,false,yone-blademaster-sfd.avif
 Blood Rose,UNL,5,UNIT,BODY,false,false,blood-rose-unl.avif
-Determined Sentry,UNL,2,UNIT,BODY,false,false,determined-sentry-unl.avif
+Determined Sentry,UNL,3,UNIT,BODY,false,false,determined-sentry-unl.avif
 Irresistible Faefolk,UNL,4,UNIT,BODY,false,false,irresistible-faefolk-unl.avif
 Nidalee Cat Form,UNL,6,UNIT,BODY,false,false,nidalee-cat-form-unl.avif
 Nilah Joyful Ascetic,UNL,3,UNIT,BODY,false,false,nilah-joyful-ascetic-unl.avif
@@ -200,4 +200,123 @@ Ambessa the Wolf,VEN,7,UNIT,BODY,false,false,ambessa-the-wolf-ven.avif
 Hextech Disc,VEN,8,GEAR,BODY,false,false,hextech-disc-ven.avif
 Jayce Hammer in Hand,VEN,8,UNIT,BODY,false,false,jayce-hammer-in-hand-ven.avif
 Gangplank Naval,VEN,5,UNIT,BODY,false,false,gangplank-naval-ven.avif
-Wildclaw,VEN,3,SPELL,BODY,false,false,wildclaw-ven.avif
+Wild Claw,VEN,4,SPELL,BODY,false,false,wild-claw-ven.avif
+Convergent Mutation,OGN,4,SPELL,MIND,false,false,convergent-mutation-ogn.avif
+Heimerdinger Inventor,OGN,1,UNIT,MIND,false,false,heimerdinger-inventor-ogn.avif
+Malzahar Fanatic,OGN,1,UNIT,MIND,false,false,malzahar-fanatic-ogn.avif
+Viktor Innovator,OGN,1,UNIT,MIND,false,false,viktor-innovator-ogn.avif
+Ava Achiever,OGN,2,UNIT,MIND,false,false,ava-achiever-ogn.avif
+Ekko Recurrent,OGN,3,UNIT,MIND,false,false,ekko-recurrent-ogn.avif
+Promising Future,OGN,2,UNIT,MIND,false,false,promising-future-ogn.avif
+Kai'Sa Evolutionary,OGN,1,UNIT,MIND,false,false,kaisa-evolutionary-ogn.avif
+Progress Day,OGN,1,SPELL,MIND,false,false,progress-day-ogn.avif
+Thousand-Tailed Watcher,OGN,2,SPELL,MIND,false,false,thousand-tailed-watcher-ogn.avif
+Dr. Mundo Expert,OGN,3,UNIT,MIND,false,false,dr-mundo-expert-ogn.avif
+Bellows Breath,SFD,3,SPELL,MIND,false,false,bellows-breath-sfd.avif
+Card Sharp,SFD,2,UNIT,MIND,false,false,card-sharp-sfd.avif
+Hextech Anomaly,SFD,3,GEAR,MIND,false,false,hextech-anomaly-sfd.avif
+World Atlas,SFD,5,GEAR,MIND,false,false,world-atlas-sfd.avif
+Bard Mecurial,SFD,3,UNIT,MIND,false,false,bard-mecurial-sfd.avif
+Ezreal Dashing,SFD,3,UNIT,MIND,false,false,ezreal-dashing-sfd.avif
+Jayce Man of Progress,SFD,2,UNIT,MIND,false,false,jayce-man-of-progress-sfd.avif
+Ornn Forge God,SFD,3,UNIT,MIND,false,false,ornn-forge-god-sfd.avif
+Keeper of Masks,UNL,3,UNIT,MIND,false,false,keeper-of-masks-unl.avif
+Smoke and Mirrors,UNL,3,SPELL,MIND,false,false,smoke-and-mirrors-unl.avif
+Sumpworks Map,UNL,4,GEAR,MIND,false,false,sumpworks-map-unl.avif
+Diana Lunari,UNL,4,UNIT,MIND,false,false,diana-lunari-unl.avif
+Lillia Fae Fawn,UNL,5,UNIT,MIND,false,false,lillia-fae-fawn-unl.avif
+Hwei Brooding Painter,UNL,3,UNIT,MIND,false,false,hwei-brooding-painter-unl.avif
+Zilean Time Mage,UNL,3,UNIT,MIND,false,false,zilean-time-mage-unl.avif
+Sprite Queen,UNL,5,UNIT,MIND,false,false,sprite-queen-unl.avif
+Decree of Insight,VEN,5,UNIT,MIND,false,false,decree-of-insight-ven.avif
+Hextech Formula,VEN,10,UNIT,MIND,false,false,hextech-formula-ven.avif
+Temporal Breach,VEN,6,UNIT,MIND,false,false,temporal-breach-ven.avif
+Nasus Guardian of Knowledge,VEN,5,UNIT,MIND,false,false,nasus-guardian-of-knowledge-ven.avif
+Swain Visionary,VEN,5,UNIT,MIND,false,false,swain-visionary-ven.avif
+Plaza Guardian,VEN,8,UNIT,MIND,false,false,plaza-guardian-ven.avif
+Caitlyn Patrolling,OGN,1,UNIT,CALM,false,false,caitlyn-patrolling-ogn.avif
+Last Stand,OGN,2,SPELL,CALM,false,false,last-stand-ogn.avif
+Solari Shrine,OGN,2,GEAR,CALM,false,false,solari-shrine-ogn.avif
+Sona Harmonious,OGN,1,UNIT,CALM,false,false,sona-harmonious-ogn.avif
+Taric Protector,OGN,2,UNIT,CALM,false,false,taric-protector-ogn.avif
+Ahri Alluring,OGN,1,UNIT,CALM,false,false,ahri-alluring-ogn.avif
+Blitzcrank Impassive,OGN,1,UNIT,CALM,false,false,blitzcrank-impassive-ogn.avif
+Mageseeker Warden,OGN,1,UNIT,CALM,false,false,mageseeker-warden-ogn.avif
+Yasuo Remorseful,OGN,1,UNIT,CALM,false,false,yasuo-remorseful-ogn.avif
+Tasty Faefolk,OGN,2,UNIT,CALM,false,false,tasty-faefolk-ogn.avif
+Aphelios Exalted,SFD,2,UNIT,CALM,false,false,aphelios-exalted-sfd.avif
+Guardian Angel,SFD,2,GEAR,CALM,false,false,guardian-angel-sfd.avif
+Heart of Dark Ice,SFD,3,GEAR,CALM,false,false,heart-of-dark-ice-sfd.avif
+Janna Savior,SFD,3,UNIT,CALM,false,false,janna-savior-sfd.avif
+Sterak's Cage,SFD,3,GEAR,CALM,false,false,steraks-cage-sfd.avif
+Jax Unmatched,SFD,5,UNIT,CALM,false,false,jax-unmatched-sfd.avif
+Azir Ascendent,SFD,3,UNIT,CALM,false,false,azir-ascendent-sfd.avif
+Needlessly Large Yordle,SFD,3,UNIT,CALM,false,false,needlessly-large-yordle-sfd.avif
+Honeyfruit,UNL,4,GEAR,CALM,false,false,honeyfruit-unl.avif
+Scuttle Crab,UNL,4,UNIT,CALM,false,false,scuttle-crab-unl.avif
+Nami Headstrong,UNL,3,UNIT,CALM,false,false,nami-headstrong-unl.avif
+Yuumi Magical Cat,UNL,4,UNIT,CALM,false,false,yuumi-magical-cat-unl.avif
+Tricksy Tentacles,UNL,4,SPELL,CALM,false,false,tricksy-tentacles-unl.avif
+Ivern Nurturer,UNL,3,UNIT,CALM,false,false,ivern-nurturer-unl.avif
+Vex Mocking,UNL,5,UNIT,CALM,false,false,vex-mocking-unl.avif
+Iascylla,UNL,3,UNIT,CALM,false,false,iascylla-unl.avif
+Crumbling Sands,VEN,6,SPELL,CALM,false,false,crumbling-sands-ven.avif
+Decree of Focus,VEN,4,SPELL,CALM,false,false,decree-of-focus-ven.avif
+Steel Paws,VEN,7,UNIT,CALM,false,false,steel-paws-ven.avif
+Riven Shattered,VEN,7,UNIT,CALM,false,false,riven-shattered-ven.avif
+Akali Silent,VEN,6,UNIT,CALM,false,false,akali-silent-ven.avif
+Shen Scourge of Shadows,VEN,7,UNIT,CALM,false,false,shen-scourge-of-shadows-ven.avif
+Falling Star,OGN,4,SPELL,FURY,false,false,falling-star-ogn.avif
+Shakedown,OGN,1,SPELL,FURY,false,false,shakedown-ogn.avif
+Ravenborn Tome,OGN,2,UNIT,FURY,false,false,ravenborn-tome-ogn.avif
+Blind Fury,OGN,1,UNIT,FURY,false,false,blind-fury-ogn.avif
+Vayne Hunter,OGN,1,UNIT,FURY,false,false,vayne-hunter-ogn.avif
+Darius Trifarian,OGN,1,UNIT,FURY,false,false,darius-trifarian-ogn.avif
+Draven Showboat,OGN,2,UNIT,FURY,false,false,draven-showboat-ogn.avif
+Brynhir Thundersong,OGN,2,UNIT,FURY,false,false,brynhir-thundersong-ogn.avif
+Raging Firebrand,OGN,1,UNIT,FURY,false,false,raging-firebrand-ogn.avif
+Tryndamere Barbarian,OGN,2,UNIT,FURY,false,false,tryndamere-barbarian-ogn.avif
+Long Sword,SFD,4,GEAR,FURY,false,false,long-sword-sfd.avif
+Piercing Light,SFD,2,SPELL,FURY,false,false,piercing-light-sfd.avif
+Rengar Pouncing,SFD,3,UNIT,FURY,false,false,rengar-pouncing-sfd.avif
+Assembly Rig,SFD,5,GEAR,FURY,false,false,assembly-rig-sfd.avif
+Draven Vanquisher,SFD,3,UNIT,FURY,false,false,draven-vanquisher-sfd.avif
+Rell Magnetic,SFD,4,UNIT,FURY,false,false,rell-magnetic-sfd.avif
+Rumble Hotheaded,SFD,5,UNIT,FURY,false,false,rumble-hotheaded-sfd.avif
+Ferrous Forerunner,SFD,4,UNIT,FURY,false,false,ferrous-forerunner-sfd.avif
+Dancing Grendade,UNL,4,GEAR,FURY,false,false,dancing-grendade-unl.avif
+Grim Apothecary,UNL,4,UNIT,FURY,false,false,grim-apothecary-unl.avif
+Undying Legion,UNL,4,UNIT,FURY,false,false,undying-legion-unl.avif
+Blighted Battleaxe,UNL,3,GEAR,FURY,false,false,blighted-battleaxe-unl.avif
+Jhin Murderous Artist,UNL,5,UNIT,FURY,false,false,jhin-murderous-artist-unl.avif
+Rengar Unseen,UNL,4,UNIT,FURY,false,false,rengar-unseen-unl.avif
+Katarina Reckless,UNL,3,UNIT,FURY,false,false,katarina-reckless-unl.avif
+Xerath Freed,UNL,3,UNIT,FURY,false,false,xerath-freed-unl.avif
+Decree of Rage,VEN,6,SPELL,FURY,false,false,decree-of-rage-ven.avif
+Twilight Reveler,VEN,7,UNIT,FURY,false,false,twilight-reveler-ven.avif
+Rage Amplifier,VEN,7,GEAR,FURY,false,false,rage-amplifier-ven.avif
+Morgana Vindictive,VEN,7,UNIT,FURY,false,false,morgana-vindictive-ven.avif
+Renekton Rage Filled,VEN,7,UNIT,FURY,false,false,renekton-rage-filled-ven.avif
+Eclipse Dragon,VEN,6,UNIT,FURY,false,false,eclipse-dragon-ven.avif
+Cleave,OGN,9,UNIT,FURY,false,false,cleave-ogn.avif
+Hextech Ray,OGN,5,UNIT,FURY,false,false,hextech-ray-ogn.avif
+Chemtech Enforcer,OGN,7,UNIT,FURY,false,false,chemtech-enforcer-ogn.avif
+Get Excited!,OGN,6,UNIT,FURY,false,false,get-excited-ogn.avif
+Legion Rearguard,OGN,6,UNIT,FURY,false,false,legion-rearguard-ogn.avif
+Pouty Poro,OGN,6,UNIT,FURY,false,false,pouty-poro-ogn.avif
+Sun Disc,OGN,2,UNIT,FURY,false,false,sun-disc-ogn.avif
+Unliscensed Armory,OGN,1,UNIT,FURY,false,false,unliscensed-armory-ogn.avif
+Flame Chompers,OGN,4,UNIT,FURY,false,false,flame-chompers-ogn.avif
+Dangerous Duo,OGN,7,UNIT,FURY,false,false,dangerous-duo-ogn.avif
+Iron Ballista,OGN,6,UNIT,FURY,false,false,iron-ballista-ogn.avif
+Void Seeker,OGN,4,UNIT,FURY,false,false,void-seeker-ogn.avif
+Disintegrate,OGN,5,UNIT,FURY,false,false,disintegrate-ogn.avif
+Noxus Hopeful,OGN,7,UNIT,FURY,false,false,noxus-hopeful-ogn.avif
+Captain Farron,OGN,1,UNIT,FURY,false,false,captain-farron-ogn.avif
+Raging Soul,OGN,3,UNIT,FURY,false,false,raging-soul-ogn.avif
+Blazing Scorcher,OGN,7,UNIT,FURY,false,false,blazing-scorcher-ogn.avif
+Scrapyard Champion,OGN,3,UNIT,FURY,false,false,scrapyard-champion-ogn.avif
+Thermo Beam,OGN,1,UNIT,FURY,false,false,thermo-beam-ogn.avif
+Brazen Buccaneer,OGN,5,UNIT,FURY,false,false,brazen-buccaneer-ogn.avif
+Magma Wurm,OGN,5,UNIT,FURY,false,false,magma-wurm-ogn.avif
+Sky Splitter,OGN,6,UNIT,FURY,false,false,sky-splitter-ogn.avif
