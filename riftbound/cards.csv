@@ -168,7 +168,6 @@ Zed Without A Sound,VEN,8,UNIT,CHAOS,false,false,zed-without-a-sound-ven.avif
 Illaoi Prophet of the Great Kraken,VEN,5,UNIT,CHAOS,false,false,illaoi-prophet-of-the-great-kraken-ven.avif
 Minah Swiftfoot,VEN,4,UNIT,CHAOS,false,false,minah-swiftfoot-ven.avif
 Maduli the Gatekeeper,VEN,3,UNIT,CHAOS,false,false,maduli-the-gatekeeper-ven.avif
-unit,OGN,1,UNIT,ORDER,false,false,unit-ogn.avif
 Sabotage,OGN,3,SPELL,ORDER,false,false,sabotage-ogn.avif
 Kraken Hunter,OGN,1,UNIT,ORDER,false,false,kraken-hunter-ogn.avif
 Mistfall,OGN,2,GEAR,ORDER,false,false,mistfall-ogn.avif
@@ -298,25 +297,148 @@ Rage Amplifier,VEN,7,GEAR,FURY,false,false,rage-amplifier-ven.avif
 Morgana Vindictive,VEN,7,UNIT,FURY,false,false,morgana-vindictive-ven.avif
 Renekton Rage Filled,VEN,7,UNIT,FURY,false,false,renekton-rage-filled-ven.avif
 Eclipse Dragon,VEN,6,UNIT,FURY,false,false,eclipse-dragon-ven.avif
-Cleave,OGN,9,UNIT,FURY,false,false,cleave-ogn.avif
-Hextech Ray,OGN,5,UNIT,FURY,false,false,hextech-ray-ogn.avif
+Cleave,OGN,9,SPELL,FURY,false,false,cleave-ogn.avif
+Hextech Ray,OGN,5,SPELL,FURY,false,false,hextech-ray-ogn.avif
 Chemtech Enforcer,OGN,7,UNIT,FURY,false,false,chemtech-enforcer-ogn.avif
-Get Excited!,OGN,6,UNIT,FURY,false,false,get-excited-ogn.avif
+Get Excited!,OGN,6,SPELL,FURY,false,false,get-excited-ogn.avif
 Legion Rearguard,OGN,6,UNIT,FURY,false,false,legion-rearguard-ogn.avif
 Pouty Poro,OGN,6,UNIT,FURY,false,false,pouty-poro-ogn.avif
-Sun Disc,OGN,2,UNIT,FURY,false,false,sun-disc-ogn.avif
-Unliscensed Armory,OGN,1,UNIT,FURY,false,false,unliscensed-armory-ogn.avif
+Sun Disc,OGN,2,GEAR,FURY,false,false,sun-disc-ogn.avif
+Unliscensed Armory,OGN,1,GEAR,FURY,false,false,unliscensed-armory-ogn.avif
 Flame Chompers,OGN,4,UNIT,FURY,false,false,flame-chompers-ogn.avif
 Dangerous Duo,OGN,7,UNIT,FURY,false,false,dangerous-duo-ogn.avif
-Iron Ballista,OGN,6,UNIT,FURY,false,false,iron-ballista-ogn.avif
-Void Seeker,OGN,4,UNIT,FURY,false,false,void-seeker-ogn.avif
-Disintegrate,OGN,5,UNIT,FURY,false,false,disintegrate-ogn.avif
+Iron Ballista,OGN,6,GEAR,FURY,false,false,iron-ballista-ogn.avif
+Void Seeker,OGN,4,SPELL,FURY,false,false,void-seeker-ogn.avif
+Disintegrate,OGN,5,SPELL,FURY,false,false,disintegrate-ogn.avif
 Noxus Hopeful,OGN,7,UNIT,FURY,false,false,noxus-hopeful-ogn.avif
 Captain Farron,OGN,1,UNIT,FURY,false,false,captain-farron-ogn.avif
 Raging Soul,OGN,3,UNIT,FURY,false,false,raging-soul-ogn.avif
 Blazing Scorcher,OGN,7,UNIT,FURY,false,false,blazing-scorcher-ogn.avif
 Scrapyard Champion,OGN,3,UNIT,FURY,false,false,scrapyard-champion-ogn.avif
-Thermo Beam,OGN,1,UNIT,FURY,false,false,thermo-beam-ogn.avif
+Thermo Beam,OGN,1,SPELL,FURY,false,false,thermo-beam-ogn.avif
 Brazen Buccaneer,OGN,5,UNIT,FURY,false,false,brazen-buccaneer-ogn.avif
 Magma Wurm,OGN,5,UNIT,FURY,false,false,magma-wurm-ogn.avif
-Sky Splitter,OGN,6,UNIT,FURY,false,false,sky-splitter-ogn.avif
+Sky Splitter,OGN,6,SPELL,FURY,false,false,sky-splitter-ogn.avif
+Blood Rush,SFD,14,SPELL,FURY,false,false,blood-rush-sfd.avif
+Detonate,SFD,10,SPELL,FURY,false,false,detonate-sfd.avif
+Serrated Dirk,SFD,12,GEAR,FURY,false,false,serrated-dirk-sfd.avif
+Against the Odds,SFD,13,SPELL,FURY,false,false,against-the-odds-sfd.avif
+Bushwhack,SFD,12,SPELL,FURY,false,false,bushwhack-sfd.avif
+Gem Jammer,SFD,14,UNIT,FURY,false,false,gem-jammer-sfd.avif
+Angle Shot,SFD,4,SPELL,FURY,false,false,angle-shot-sfd.avif
+Blast Corps Cadet,SFD,6,UNIT,FURY,false,false,blast-corps-cadet-sfd.avif
+Recurve Bow,SFD,5,GEAR,FURY,false,false,recurve-bow-sfd.avif
+Void Hatchling,SFD,5,UNIT,FURY,false,false,void-hatchling-sfd.avif
+Eager Drakehound,SFD,13,UNIT,FURY,false,false,eager-drakehound-sfd.avif
+Sentinel Adept,SFD,13,UNIT,FURY,false,false,sentinel-adept-sfd.avif
+Void Drone,SFD,11,UNIT,FURY,false,false,void-drone-sfd.avif
+Sudden Storm,SFD,5,UNIT,FURY,false,false,sudden-storm-sfd.avif
+Perched Grimwyrm,SFD,5,UNIT,FURY,false,false,perched-grimwyrm-sfd.avif
+Battering Ram,SFD,4,UNIT,FURY,false,false,battering-ram-sfd.avif
+Minotaur Reckoner,SFD,5,UNIT,FURY,false,false,minotaur-reckoner-sfd.avif
+Armed Assailnt,SFD,11,UNIT,FURY,false,false,armed-assailnt-sfd.avif
+Vault Breaker,UNL,15,UNIT,FURY,false,false,vault-breaker-unl.avif
+Monster Harpoon,UNL,6,UNIT,FURY,false,false,monster-harpoon-unl.avif
+Inferna,UNL,15,UNIT,FURY,false,false,inferna-unl.avif
+Mischievous Marai,UNL,16,UNIT,FURY,false,false,mischievous-marai-unl.avif
+Smite,UNL,16,UNIT,FURY,false,false,smite-unl.avif
+Upstage Comedy,UNL,16,UNIT,FURY,false,false,upstage-comedy-unl.avif
+Fresh Beans,UNL,9,UNIT,FURY,false,false,fresh-beans-unl.avif
+Lotus Trap,UNL,5,UNIT,FURY,false,false,lotus-trap-unl.avif
+Prepared Neophyte,UNL,16,UNIT,FURY,false,false,prepared-neophyte-unl.avif
+Sharkling,UNL,19,UNIT,FURY,false,false,sharkling-unl.avif
+Right of Conquest,UNL,5,UNIT,FURY,false,false,right-of-conquest-unl.avif
+Scorchclaw,UNL,7,UNIT,FURY,false,false,scorchclaw-unl.avif
+Square Up,UNL,8,UNIT,FURY,false,false,square-up-unl.avif
+Arena Kingpin,UNL,14,UNIT,FURY,false,false,arena-kingpin-unl.avif
+Lord Broadmane,UNL,7,UNIT,FURY,false,false,lord-broadmane-unl.avif
+Towering Pairofant,UNL,18,UNIT,FURY,false,false,towering-pairofant-unl.avif
+Yeti Brawler,UNL,5,UNIT,FURY,false,false,yeti-brawler-unl.avif
+Revna the Lorekeeper,UNL,16,UNIT,FURY,false,false,revna-the-lorekeeper-unl.avif
+Brittle Steel,VEN,20,UNIT,FURY,false,false,brittle-steel-ven.avif
+Forsaken Baccai,VEN,29,UNIT,FURY,false,false,forsaken-baccai-ven.avif
+Punching Poro,VEN,28,UNIT,FURY,false,false,punching-poro-ven.avif
+Consuming Curse,VEN,9,UNIT,FURY,false,false,consuming-curse-ven.avif
+Shadow Fiend,VEN,11,UNIT,FURY,false,false,shadow-fiend-ven.avif
+Dune Surfer,VEN,20,UNIT,FURY,false,false,dune-surfer-ven.avif
+Ruthless Strike,VEN,29,UNIT,FURY,false,false,ruthless-strike-ven.avif
+Baccai Reaper,VEN,12,UNIT,FURY,false,false,baccai-reaper-ven.avif
+Pendulum Blade,VEN,13,UNIT,FURY,false,false,pendulum-blade-ven.avif
+Perfect Execution,VEN,15,UNIT,FURY,false,false,perfect-execution-ven.avif
+Blade Twirler,VEN,30,UNIT,FURY,false,false,blade-twirler-ven.avif
+Oasis Raider,VEN,24,UNIT,FURY,false,false,oasis-raider-ven.avif
+Shadow Assasin,VEN,14,UNIT,FURY,false,false,shadow-assasin-ven.avif
+Baccai Sandspinner,VEN,25,UNIT,FURY,false,false,baccai-sandspinner-ven.avif
+Charm,OGN,7,UNIT,CALM,false,false,charm-ogn.avif
+Defy,OGN,5,UNIT,CALM,false,false,defy-ogn.avif
+En Garde,OGN,7,UNIT,CALM,false,false,en-garde-ogn.avif
+Clockwork Keeper,OGN,13,UNIT,CALM,false,false,clockwork-keeper-ogn.avif
+Meditation,OGN,7,UNIT,CALM,false,false,meditation-ogn.avif
+Rune Prison,OGN,5,UNIT,CALM,false,false,rune-prison-ogn.avif
+Stalwart Poro,OGN,6,UNIT,CALM,false,false,stalwart-poro-ogn.avif
+Block,OGN,3,UNIT,CALM,false,false,block-ogn.avif
+Discipline,OGN,6,UNIT,CALM,false,false,discipline-ogn.avif
+Mask of Foresight,OGN,2,UNIT,CALM,false,false,mask-of-foresight-ogn.avif
+Spirit's Refuge,OGN,2,UNIT,CALM,false,false,spirits-refuge-ogn.avif
+Find Your Center,OGN,8,UNIT,CALM,false,false,find-your-center-ogn.avif
+Solari Shieldbearer,OGN,5,UNIT,CALM,false,false,solari-shieldbearer-ogn.avif
+Stand United,OGN,6,UNIT,CALM,false,false,stand-united-ogn.avif
+Sunlit Guardian,OGN,5,UNIT,CALM,false,false,sunlit-guardian-ogn.avif
+Wielder of Water,OGN,5,UNIT,CALM,false,false,wielder-of-water-ogn.avif
+Poro Herder,OGN,5,UNIT,CALM,false,false,poro-herder-ogn.avif
+Wind Wall,OGN,1,UNIT,CALM,false,false,wind-wall-ogn.avif
+Adaptatron,OGN,2,UNIT,CALM,false,false,adaptatron-ogn.avif
+Wizened Elder,OGN,4,UNIT,CALM,false,false,wizened-elder-ogn.avif
+Playful Phantom,OGN,6,UNIT,CALM,false,false,playful-phantom-ogn.avif
+Reinforce,OGN,3,UNIT,CALM,false,false,reinforce-ogn.avif
+Eclipse Herald,OGN,3,UNIT,CALM,false,false,eclipse-herald-ogn.avif
+Poro Snax,SFD,4,UNIT,CALM,false,false,poro-snax-sfd.avif
+Doran's Shield,SFD,11,UNIT,CALM,false,false,dorans-shield-sfd.avif
+Desert's Call,SFD,12,UNIT,CALM,false,false,deserts-call-sfd.avif
+Feral Strength,SFD,12,UNIT,CALM,false,false,feral-strength-sfd.avif
+Lonely Poro,SFD,12,UNIT,CALM,false,false,lonely-poro-sfd.avif
+Thwonk!,SFD,13,UNIT,CALM,false,false,thwonk-sfd.avif
+Apprentice Smith,SFD,7,UNIT,CALM,false,false,apprentice-smith-sfd.avif
+Brutalizeer,SFD,6,UNIT,CALM,false,false,brutalizeer-sfd.avif
+Emperor's Divide,SFD,5,UNIT,CALM,false,false,emperors-divide-sfd.avif
+Not So Fast,SFD,5,UNIT,CALM,false,false,not-so-fast-sfd.avif
+Disarming Rake,SFD,12,UNIT,CALM,false,false,disarming-rake-sfd.avif
+Ribbon Dancer,SFD,14,UNIT,CALM,false,false,ribbon-dancer-sfd.avif
+Royal Entourage,SFD,13,UNIT,CALM,false,false,royal-entourage-sfd.avif
+Legion Quartermaster,SFD,4,UNIT,CALM,false,false,legion-quartermaster-sfd.avif
+Navori Scout,SFD,11,UNIT,CALM,false,false,navori-scout-sfd.avif
+Stellacorn Herder,SFD,5,UNIT,CALM,false,false,stellacorn-herder-sfd.avif
+Simian Ancenstor,SFD,6,UNIT,CALM,false,false,simian-ancenstor-sfd.avif
+Guardian of the Passage,SFD,13,UNIT,CALM,false,false,guardian-of-the-passage-sfd.avif
+Combat Experience,UNL,15,UNIT,CALM,false,false,combat-experience-unl.avif
+Soul Sword,UNL,11,UNIT,CALM,false,false,soul-sword-unl.avif
+Friendship,UNL,3,UNIT,CALM,false,false,friendship-unl.avif
+Double Trouble,UNL,14,UNIT,CALM,false,false,double-trouble-unl.avif
+Mutated Mouser,UNL,14,UNIT,CALM,false,false,mutated-mouser-unl.avif
+Skyward Strike,UNL,14,UNIT,CALM,false,false,skyward-strike-unl.avif
+Wuju Apprentice,UNL,13,UNIT,CALM,false,false,wuju-apprentice-unl.avif
+Forgotten Signpost,UNL,4,UNIT,CALM,false,false,forgotten-signpost-unl.avif
+"Allay, Eager Admirer",UNL,8,UNIT,CALM,false,false,allay-eager-admirer-unl.avif
+Back Off,UNL,7,UNIT,CALM,false,false,back-off-unl.avif
+Enthusiastic Promoter,UNL,7,UNIT,CALM,false,false,enthusiastic-promoter-unl.avif
+Mosstomper,UNL,4,UNIT,CALM,false,false,mosstomper-unl.avif
+Trevor Snoozebottom,UNL,4,UNIT,CALM,false,false,trevor-snoozebottom-unl.avif
+Frisky Hunter,UNL,13,UNIT,CALM,false,false,frisky-hunter-unl.avif
+Herald of Spring,UNL,12,UNIT,CALM,false,false,herald-of-spring-unl.avif
+Shadow Watcher,UNL,13,UNIT,CALM,false,false,shadow-watcher-unl.avif
+Flurry of Feathers,UNL,5,UNIT,CALM,false,false,flurry-of-feathers-unl.avif
+Monch,UNL,12,UNIT,CALM,false,false,monch-unl.avif
+Twilight Shroud,VEN,30,UNIT,CALM,false,false,twilight-shroud-ven.avif
+Hand Hammer,VEN,24,UNIT,CALM,false,false,hand-hammer-ven.avif
+Mournful Witness,VEN,33,UNIT,CALM,false,false,mournful-witness-ven.avif
+Ol' Poro,VEN,18,UNIT,CALM,false,false,ol-poro-ven.avif
+Resonating Strike,VEN,10,UNIT,CALM,false,false,resonating-strike-ven.avif
+Affectionate Poro,VEN,23,UNIT,CALM,false,false,affectionate-poro-ven.avif
+Serene Ascetic,VEN,26,UNIT,CALM,false,false,serene-ascetic-ven.avif
+Frostcoat Mother,VEN,9,UNIT,CALM,false,false,frostcoat-mother-ven.avif
+Sanction,VEN,10,UNIT,CALM,false,false,sanction-ven.avif
+Field Musicians,VEN,28,UNIT,CALM,false,false,field-musicians-ven.avif
+Tomb-Raider Barbara,VEN,13,UNIT,CALM,false,false,tomb-raider-barbara-ven.avif
+Sandstone Chimera,VEN,12,UNIT,CALM,false,false,sandstone-chimera-ven.avif
+Pakaa Protector,VEN,14,UNIT,CALM,false,false,pakaa-protector-ven.avif
+Esteemed Hierophant,VEN,28,UNIT,CALM,false,false,esteemed-hierophant-ven.avif
